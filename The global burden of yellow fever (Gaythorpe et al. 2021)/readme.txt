@@ -1,0 +1,1 @@
+The csv contains estimates of the force of infection at admin level one (GAMD 3.6 boundaries) associated with Gaythorpe et al. 2021 https://elifesciences.org/articles/64670.
