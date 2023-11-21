@@ -1,0 +1,1 @@
+These weighted, national estimates of force of infection were used for the 201910 model runs for VIMC which fed into Toor et al. 2021 https://elifesciences.org/articles/67635. The estimates are population weighted means per country. 
